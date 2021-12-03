@@ -21,13 +21,15 @@ Bron: [DOT Framework](https://ictresearchmethods.nl/The_DOT_Framework)
 In dit onderzoeken ga ik proberen malware te bouwen en te onderzoeken in 40 uur. 
 
 De hoofdonderzoeksvraag:  
-**Hoe creër je malware?**
+**Hoe kan het creëren van malware bijdragen aan het pentesten?**
 
 ## Why  
 **Deelvragen**  
 - Wat is malware?  
+- Wat is een pentest? (Concreet)  
 - Welke typen malware zijn er?  
 - Hoe maak je malware?  
+- Hoe kan zelfgemaakte malware bijdragen aan een pentest? (Conclusie)
   
 **Wat gaat dit onderzoek oplossen?**  
 D.m.v. dit onderzoek ga ik leren wat malware precies is en hoe malware (kan) worden gemaakt.  
