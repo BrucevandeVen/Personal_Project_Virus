@@ -1,4 +1,4 @@
-# Personal_Project_Virus
+# Personal_Project_Malware
 
 ## Introductie
 Na veel informatie te hebben gekregen over beveiligingen en analyses, heb ik besloten ook de kant van de aanvaller te onderzoeken om zo het "Ethical Hacker" onderwerp uit te breiden. Ik ben zeer benieuwd hoe een virus (malware) werkt en wil daarom ook proberen een aantal malware types te maken (of op zijn minst 1).
