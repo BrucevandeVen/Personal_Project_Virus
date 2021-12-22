@@ -28,7 +28,7 @@ De hoofdonderzoeksvraag:
 - Wat is malware?  
 - Wat is een pentest? (Concreet)  
 - Welke typen malware zijn er?  
-- Hoe maak je malware?  
+- Hoe wordt malware gemaakt?  
 - Hoe kan zelfgemaakte malware bijdragen aan een pentest? (Conclusie)
   
 **Wat gaat dit onderzoek oplossen?**  
